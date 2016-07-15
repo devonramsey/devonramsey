@@ -18,6 +18,6 @@ p{
 h3{
   font-weight: bolder;
 }
-.section {
-  border style solid;
+ul{
+  list-style: circle;
 }

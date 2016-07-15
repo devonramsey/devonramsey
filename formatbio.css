@@ -1,0 +1,9 @@
+body {
+  background-color: #cccccc;
+}
+h1{
+  font-weight: bolder;
+  font-size: 40px;
+  background-color: grey;
+  border-style: solid;
+}

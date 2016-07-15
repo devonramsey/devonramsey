@@ -1,19 +1,20 @@
 body {
-  background-color: #808080;
+  background-color: #cccccc;
 }
 h1{
-  font-weight: bold;
+  font-weight: bolder;
+  color: red;
 }
 h2{
   font-weight: bold;
+  border-style: solid;
+  background-color: grey;
 }
 p{
   font-style: italic;
   font-weight: bold;
   color: #393232;
 }
-h2{
-  border-style: solid;
-  background-color: grey;
-
+h3{
+  font-weight: bolder;
 }

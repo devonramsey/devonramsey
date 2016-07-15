@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #808080;
 }
 h1{
   font-weight: bold;
@@ -10,7 +10,7 @@ h2{
 p{
   font-style: italic;
   font-weight: bold;
-  color: gray;
+  color: #393232;
 }
 h2{
   border-style: solid;
